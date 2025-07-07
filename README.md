@@ -1,4 +1,6 @@
-# React + Vite
+# GifExpertApp PC
+
+Este es un repositorio personal para almacenar las clases del curso de FH de React de Cero a Experto.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
